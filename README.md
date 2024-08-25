@@ -1,2 +1,10 @@
 # hospital-production-brazil
-Repository for Phase 1 of my Data Analytics postgraduate program. This project contains exploratory data analysis and visualizations using Pandas, Matplotlib, and Seaborn, focusing on hospital production data in Brazil.
+
+Analisando dados com Python e Pandas 🐍 🐼
+Notebook 📓
+Data 🎲
+Os estão disponíveis no DATASUS e temos também o link direto para a Produção hospitalar. E é claro que também deixamos a base de dados disponível no github:
+
+-Base de dados no github
+
+Vamos lá!!!
